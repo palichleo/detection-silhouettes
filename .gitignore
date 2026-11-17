@@ -1,0 +1,18 @@
+# Jeux de données téléchargés (Roboflow) et archives
+6k_finals/
+The Finals.v5i.yolov11/
+entity.v1i.yolov11/
+*.zip
+
+# Poids et sorties d'entraînement
+*.pt
+runs/
+
+# Captures locales
+frames/
+*.mp4
+
+# Environnement
+.idea/
+__pycache__/
+.ipynb_checkpoints/
